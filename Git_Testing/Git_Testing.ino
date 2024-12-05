@@ -9,5 +9,6 @@ void loop() {
   delay(1000);
   Serial.println("Adding another line");
   Serial.println("Creating branch");
+  Serial.println("Shifting to a new branch");
 
 }
